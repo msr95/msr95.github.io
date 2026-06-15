@@ -1,101 +1,91 @@
 ---
 - title: MobiCom
-  year: 2022
-  id: mobicom22
-  link: https://www.sigmobile.org/mobicom/2022/
-  deadline: '2022-03-25 23:59:59'
-  timezone: UTC-7
-  date: October, 2022
-  place: Sydney, Australia
+  year: 2026
+  id: mobicom26
+  link: https://www.sigmobile.org/mobicom/2026/
+  deadline: '2026-03-13 23:59:59'
+  timezone: UTC-12
+  date: October 2026
+  place:   Austin, Texas, USA
   sub: MS
 
 - title: MobiSys
-  year: 2022
-  id: mobisys22
-  link: https://www.sigmobile.org/mobisys/2022/
-  deadline: '2021-12-20 23:59:59'
+  year: 2027
+  id: mobisys27
+  link: https://dl.acm.org/conference/mobisys
+  deadline: TBD
   timezone: UTC-12
-  date: June 25-July 1, 2022
-  place: Portland, USA
+  date: June 21-June 25, 2027
+  place: Ho Chi Minh City, Vietnam
   sub: MS
 
-- title: SenSys
-  year: 2021
-  id: sensys22
-  link: https://sensys.acm.org/2021/
-  deadline: '2021-06-04 23:59:59'
+- title: SenSys-C1
+  year: 2027
+  id: sensys27
+  link: https://sensys.acm.org/2027/
+  deadline: '2026-06-05 23:59:59'
   timezone: UTC-12
-  date: November 15-17, 2021
-  place: Coimbra, Portugal
+  date: 2027
+  place: New York, U.S.
   sub: MS
 
-- title: CCS
-  year: 2022
-  id: acmccs22
-  link: https://www.sigsac.org/ccs/CCS2022/call-for-papers.html
-  deadline: '2022-05-02 23:59:59'
+- title: CCS-C2
+  year: 2026
+  id: acmccs26
+  link: https://www.sigsac.org/ccs/CCS2026/call-for/call-for-papers.html
+  deadline: '2026-04-29 23:59:59'
   timezone: UTC-12
-  date: August 1-5, 2022
-  place: TBA
+  date: November 15-19, 2026
+  place: The Hague, The Netherlands.
   sub: SC
   
-- title: USENIX Security 
-  year: 2022
-  id: usenixsec22
-  link: https://www.usenix.org/conference/usenixsecurity22/call-for-papers
-  deadline: '2022-06-08  23:59:00'
+- title: USENIX Security-C1
+  year: 2027
+  id: usenixsec27
+  link: https://www.usenix.org/conference/usenixsecurity27
+  deadline: '2026-08-25  23:59:00'
   timezone: UTC-12
-  date: August 10- 12, 2022
-  place: Boston, USA
+  date: August 11–13, 2027
+  place: Denver, Colorado, USA
+  sub: SC
+
+- title: USENIX Security-C2
+  year: 2027
+  id: usenixsec27
+  link: https://www.usenix.org/conference/usenixsecurity27
+  deadline: '2027-01-26  23:59:00'
+  timezone: UTC-12
+  date: August 11–13, 2027
+  place: Denver, Colorado, USA
   sub: SC
   
-- title: IEEE SP
-  year: 2023
-  id: ieeesp23
-  link: https://www.ieee-security.org/TC/SP2023/cfpapers.html
-  deadline: '2022-04-01 23:59:59'
+- title: IEEE SP-C2
+  year: 2027
+  id: ieeesp27
+  link: https://sp2027.ieee-security.org/cfpapers.html
+  deadline: '2026-11-17 23:59:59'
   timezone: UTC-12
   date: May 22-26, 2023
-  place: San Francisco, USA
+  place: Montreal, Canada
   sub: SC
 
-- title: USENIX NSDI
-  year: 2022
-  id: nsdi22
-  link: https://www.usenix.org/conference/nsdi22/call-for-papers
-  deadline: '2021-09-09 23:59:00'
-  abstract_deadline: '2021-03-04 23:59:00'
-  timezone: UTC-8
-  date: April 4-6, 2022
-  place: Renton, Washington USA
-  sub: NW
 
-- title: ACM SigComm
-  year: 2022
-  id: sigc22
-  link: https://conferences.sigcomm.org/sigcomm/2022/cfp.html
-  deadline: '2022-02-02 23:59:59'
-  timezone: UTC
-  date: August 22-26, 2022
-  place: Amsterdam, Netherlands
-  sub: NW
-
-- title: ISOC NDSS
-  year: 2022
-  id: ndss22
+- title: ISOC NDSS-C2
+  year: 2027
+  id: ndss27
   link: https://www.ndss-symposium.org/ndss2022/call-for-papers/
-  deadline: '2021-07-23 23:59:59'
+  deadline: '2026-08-18 23:59:59'
   timezone: UTC-12
-  date: April 24-28, 2022
-  place: San Diego, USA
+  date: 22-26 March 2027
+  place: Seoul, Republic of Korea
   sub: SC
 
-- title: UbiComp (IMWUT)
-  year: 2022
-  id: ubicomp22
+- title: UbiComp (IMWUT-C3)
+  year: 2027
+  id: ubicomp27
   link: TBA
-  deadline: '2022-05-15 22:59:59'
-  timezone: UTC-5
-  date: October, 2022
+  deadline: '2026-11-01 22:59:59'
+  timezone: UTC-12
+  date: 2027
   place: TBA
   sub: MS
