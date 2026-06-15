@@ -4,7 +4,7 @@
   id: mobicom26
   link: https://www.sigmobile.org/mobicom/2026/
   deadline: '2026-03-13 23:59:59'
-  timezone: UTC-12
+  timezone: UTC-7
   date: October 2026
   place:   Austin, Texas, USA
   sub: MS
@@ -14,7 +14,7 @@
   id: mobisys27
   link: https://dl.acm.org/conference/mobisys
   deadline: TBD
-  timezone: UTC-12
+  timezone: UTC-7
   date: June 21-June 25, 2027
   place: Ho Chi Minh City, Vietnam
   sub: MS
@@ -24,7 +24,7 @@
   id: sensys27
   link: https://sensys.acm.org/2027/
   deadline: '2026-06-05 23:59:59'
-  timezone: UTC-12
+  timezone: UTC-7
   date: 2027
   place: New York, U.S.
   sub: MS
